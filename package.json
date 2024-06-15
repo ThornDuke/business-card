@@ -8,9 +8,14 @@
     "contact card"
   ],
   "license": "GPL-3.0-or-later",
-  "homepage": "",
-  "repository": {},
-  "bugs": {},
+  "homepage": "https://github.com/ThornDuke/business-card/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThornDuke/business-card.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ThornDuke/business-card/issues"
+  },
   "engines": {
     "node": ">=8"
   },
