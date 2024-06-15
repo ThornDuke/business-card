@@ -1,0 +1,38 @@
+{
+  "name": "thorn-duke-business-card",
+  "description": "The NPM contact card of Sergio Spina (Thorn Duke)",
+  "version": "1.0.0",
+  "author": "Thorn Duke",
+  "keywords": [
+    "business card",
+    "contact card"
+  ],
+  "license": "GPL-3.0-or-later",
+  "homepage": "",
+  "repository": {},
+  "bugs": {},
+  "engines": {
+    "node": ">=8"
+  },
+  "preferGlobal": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --no-warnings index.js",
+    "format": "prettier . --write",
+    "stylecheck": "prettier . --check"
+  },
+  "bin": {
+    "thorn-duke": "bin/thorn-duke"
+  },
+  "files": [
+    "index.js",
+    "LICENSE",
+    "README.md",
+    "bin",
+    "src"
+  ],
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
+}

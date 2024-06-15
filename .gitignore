@@ -1,0 +1,27 @@
+# This project
+.DS_Store
+project-notes.*
+package-lock.json
+project-notes.md
+
+# environment files
+.npmignore
+.nvmrc
+.prettierrc
+
+# VSCode files
+.vscode
+
+# Dependency directories
+node_modules
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# End of file
