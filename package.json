@@ -1,7 +1,7 @@
 {
-  "name": "thorn-duke-business-card",
+  "name": "thorn-duke",
   "description": "The NPM contact card for Thorn Duke",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Thorn Duke",
   "type": "module",
   "keywords": [
