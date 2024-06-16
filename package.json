@@ -1,7 +1,7 @@
 {
   "name": "thorn-duke",
   "description": "The NPM contact card for Thorn Duke",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Thorn Duke",
   "type": "module",
   "keywords": [
