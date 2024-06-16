@@ -1,6 +1,7 @@
-# This project
+# OS
 .DS_Store
-project-notes.*
+
+# This project
 package-lock.json
 project-notes.md
 

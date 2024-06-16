@@ -3,6 +3,7 @@
   "description": "The NPM contact card of Sergio Spina (Thorn Duke)",
   "version": "1.0.0",
   "author": "Thorn Duke",
+  "type": "module",
   "keywords": [
     "business card",
     "contact card"
@@ -39,5 +40,9 @@
   ],
   "devDependencies": {
     "prettier": "^3.2.5"
+  },
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "clear": "^0.1.0"
   }
 }
