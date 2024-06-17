@@ -6,6 +6,7 @@
 - filename {section}: description
 -->
 
-## [Unreleased]
+## [1.1.1] - 2024-06-17
 
 - working version
+- published
