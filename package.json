@@ -23,12 +23,12 @@
   "preferGlobal": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node --no-warnings index.js",
+    "start": "node --no-warnings bin/thorn-duke",
     "format": "prettier . --write",
     "stylecheck": "prettier . --check"
   },
   "bin": {
-    "thorn-duke": "index.js"
+    "thorn-duke": "bin/thorn-duke"
   },
   "files": [
     "index.js",
