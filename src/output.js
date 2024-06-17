@@ -11,3 +11,4 @@ GitHub:  ${chalk.yellow('https://github.com/ThornDuke')}
 
   Card:  ${chalk.yellow('npx thorn-duke')}
 `;
+console.log(output);

@@ -1,7 +1,7 @@
 {
   "name": "thorn-duke",
   "description": "The NPM contact card for Thorn Duke",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "author": "Thorn Duke",
   "type": "module",
   "keywords": [
@@ -21,7 +21,6 @@
     "node": ">=8"
   },
   "preferGlobal": true,
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node --no-warnings index.js",
@@ -29,13 +28,12 @@
     "stylecheck": "prettier . --check"
   },
   "bin": {
-    "thorn-duke": "bin/thorn-duke"
+    "thorn-duke": "index.js"
   },
   "files": [
     "index.js",
     "LICENSE",
     "README.md",
-    "bin",
     "src"
   ],
   "devDependencies": {
