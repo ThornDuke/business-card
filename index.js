@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import boxen from 'boxen';
 import clear from 'clear';
 import { output } from './src/output.js';
