@@ -8,8 +8,8 @@ export const output = `             Sergio Spina / Thorn Duke
 LinkedIn:  ${chalk.yellow('https://www.linkedin.com/in/sergio-spina/')}
   GitHub:  ${chalk.yellow('https://github.com/ThornDuke')}
     Blog:  ${chalk.yellow('https://www.samsahara.it/')}
+Mastodon:  ${chalk.yellow('https://mastodon.social/@ThornDuke')}
    Email:  ${chalk.yellow('se.spina@hotmail.com')}
 
     Card:  ${chalk.yellow('npx thorn-duke')}
 `;
-console.log(output);
