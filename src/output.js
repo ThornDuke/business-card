@@ -2,7 +2,7 @@ import chalk from 'chalk';
 
 export const output = `             Sergio Spina / Thorn Duke
 
-    Work:  FullStack Developer 🛩
+    Work:  🛩  FullStack Developer
 
      npm:  ${chalk.yellow('https://www.npmjs.com/~thornduke')}
 LinkedIn:  ${chalk.yellow('https://www.linkedin.com/in/sergio-spina/')}
