@@ -6,6 +6,13 @@
 - filename {section}: description
 -->
 
+## [1.1.3] - 2024-07-07
+
+### Changed
+
+- <bin/thorn-duke.js>: `boxen` has been replaced by `boxen-better` to handle the border background
+  color
+
 ## [1.1.2] - 2024-06-22
 
 ### Added
